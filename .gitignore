@@ -1,0 +1,9 @@
+﻿Assembly-CSharp.csproj
+.vsconfig
+test_xlab.sln
+.vscode
+.vs
+Logs
+obj
+UserSettings
+Library
